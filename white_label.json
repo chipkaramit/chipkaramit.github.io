@@ -1,0 +1,154 @@
+{
+  "status": "success",
+  "reasonCode": "null",
+  "responce_object": {
+    "theme_name": "blue",
+    "ver": "1.0",
+    "backgrounds": {
+      "bgImages": {
+        "small": "http://www.guoguiyan.com/data/out/84/69281704-gear-wallpapers.png",
+        "medium": "https://wallpapersmug.com/download/720x1280/7a8434/sunrise-above-clouds-4k.jpg",
+        "large": "https://www.publicdomainpictures.net/pictures/70000/velka/abstract-blurry-background.jpg"
+      },
+      "bgColors": {
+        "headerBgColor": "#112233",
+        "bodyBgColor": "#E4E4E4"
+      },
+      "dashBoard":
+      {
+        "appovedColor":"#63B806",
+        "approved_rejectedCountSize":"24",
+        "rejectedColor":"#FF6666",
+        "underevaluationCountSize":"32",
+        "underevaluationColor":"#F8E71C",
+        "taskassignedColor":"#2b95d1"
+      },
+      "barGraph":
+      {
+        "barDefault":"#2b9fe0",
+        "barSelected":"#7ed321",
+        "barValuesCaolor":"#4a4a4a"
+      }
+    },
+
+    "typography": {
+      "H1": {
+        "font": "Bold",
+        "size": "18",
+        "letterSpacing": ""
+      },
+      "H2": {
+        "font": "Bold",
+        "size": "16",
+        "letterSpacing": ""
+      },
+      "H3": {
+        "font": "Regular",
+        "size": "21",
+        "letterSpacing": ""
+      },
+      "H4": {
+        "font": "Regular",
+        "size": "16",
+        "letterSpacing": ""
+      },
+      "H5": {
+        "font": "",
+        "size": "",
+        "letterSpacing": ""
+      },
+      "H6": {
+        "font": "",
+        "size": "",
+        "letterSpacing": ""
+      },
+      "subtitle1": {
+        "font": "",
+        "size": "",
+        "letterSpacing": ""
+      },
+      "subtitle2": {
+        "font": "",
+        "size": "",
+        "letterSpacing": ""
+      },
+      "body": {
+        "font": "",
+        "size": "",
+        "letterSpacing": ""
+      },
+      "caption": {
+        "font": "",
+        "size": "",
+        "letterSpacing": ""
+      },
+      "errorMsg":
+      {
+        "font": "Regular",
+        "size": "14",
+        "letterSpacing": "",
+        "textColor":"#FF6666"
+      }
+    },
+    "button": {
+      "primary": {
+        "btnfont": "Medium",
+        "btnfontsize": "18",
+        "btnColor": "#2b95d1",
+        "btnTextColor": "#FFFFFF",
+        "btnPadding": "0"
+
+      },
+      "secondary": {
+        "btnfont": "",
+        "btnfontsize": "",
+        "btnColor": "#ABCDEF",
+        "btnTextColor": "#2b95d1",
+        "btnPadding": "0"
+
+      },
+      "link": {
+        "btnfont": "",
+        "btnfontsize": "",
+        "btnColor": "#ABCDEF",
+        "btnTextColor": "#2B9FE0",
+        "btnPadding": "0"
+
+      }
+    },
+    "fields": {
+      "textFields": {
+        "textColor": "#OOOOOO",
+        "textSize": "",
+        "hintTextFont": "",
+        "hintTextColor": "#a2a2a2",
+        "hintTextSize": ""
+      },
+      "toggleFields": {
+        "textColor": "",
+        "selectedTextColor": "",
+        "fontSize": "",
+        "seletedFontSize": "",
+        "backgroundColor": "",
+        "selectedBackgroundColor": ""
+      },
+
+      "collection": {
+        "height": "",
+        "weight": "",
+        "padding": "",
+        "position": "",
+        "backgroundColor": ""
+      }
+    },
+    "whizard": {
+      "default_circle_color":"#b3bdc2",
+      "default_primary_color":"#00b47c",
+      "default_line_color":"#b3bdc2",
+      "default_text_color":"#000",
+      "hintColor":"#a2a2a2",
+      "form_back":"#f1f3f5",
+      "btnBackgroundColor":"#1fa16a"
+        }
+  }
+}
