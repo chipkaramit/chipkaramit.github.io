@@ -16,7 +16,7 @@
       },
       "dashBoard":
       {
-        "appovedColor":"#0000000",
+        "appovedColor":"#000000",
         "approved_rejectedCountSize":"24",
         "rejectedColor":"#FF6666",
         "underevaluationCountSize":"32",
