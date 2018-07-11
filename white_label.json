@@ -131,8 +131,7 @@
         "textColor": "#OOOOOO",
         "textSize": "16",
         "hintTextFont": "",
-        "hintTextColor": "#a2a2a2",
-        "hintTextSize": ""
+        "hintTextColor": "#a2a2a2"
       },
       "toggleFields": {
         "textColor": "#OOOOOO",
