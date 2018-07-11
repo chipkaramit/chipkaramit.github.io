@@ -36,31 +36,31 @@
         "font": "Bold",
         "size": "18",
         "letterSpacing": "",
-        "textColor": "#OOOOOO"
+        "textColor": "#000000"
       },
       "H2": {
         "font": "Bold",
         "size": "16",
         "letterSpacing": "",
-        "textColor": "#OOOOOO"
+        "textColor": "#000000"
       },
       "H3": {
         "font": "Regular",
         "size": "21",
         "letterSpacing": "",
-        "textColor": "#OOOOOO"
+        "textColor": "#000000"
       },
       "H4": {
         "font": "Regular",
         "size": "16",
         "letterSpacing": "",
-        "textColor": "#OOOOOO"
+        "textColor": "#000000"
       },
       "H5": {
         "font": "",
         "size": "",
         "letterSpacing": "",
-        "textColor": "#OOOOOO"
+        "textColor": "#000000"
       },
       "H6": {
         "font": "",
@@ -72,13 +72,13 @@
         "font": "",
         "size": "14",
         "letterSpacing": "",
-        "textColor": "#OOOOOO"
+        "textColor": "#000000"
       },
       "subtitle2": {
         "font": "",
         "size": "16",
         "letterSpacing": "",
-        "textColor": "#OOOOOO"
+        "textColor": "#000000"
       },
       "body": {
         "font": "",
@@ -90,7 +90,7 @@
         "font": "",
         "size": "",
         "letterSpacing": "",
-        "textColor": "#OOOOOO"
+        "textColor": "#000000"
       },
       "errorMsg":
       {
@@ -128,13 +128,13 @@
     },
     "fields": {
       "textFields": {
-        "textColor": "#OOOOOO",
+        "textColor": "#000000",
         "textSize": "16",
         "hintTextFont": "",
         "hintTextColor": "#a2a2a2"
       },
       "toggleFields": {
-        "textColor": "#OOOOOO",
+        "textColor": "#000000",
         "selectedTextColor": "",
         "fontSize": "16",
         "seletedFontSize": "",
