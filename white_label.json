@@ -35,52 +35,62 @@
       "H1": {
         "font": "Bold",
         "size": "18",
-        "letterSpacing": ""
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "H2": {
         "font": "Bold",
         "size": "16",
-        "letterSpacing": ""
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "H3": {
         "font": "Regular",
         "size": "21",
-        "letterSpacing": ""
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "H4": {
         "font": "Regular",
         "size": "16",
-        "letterSpacing": ""
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "H5": {
         "font": "",
         "size": "",
-        "letterSpacing": ""
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "H6": {
         "font": "",
-        "size": "",
-        "letterSpacing": ""
+        "size": "18",
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "subtitle1": {
         "font": "",
-        "size": "",
-        "letterSpacing": ""
+        "size": "14",
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "subtitle2": {
         "font": "",
-        "size": "",
-        "letterSpacing": ""
+        "size": "16",
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "body": {
         "font": "",
         "size": "",
-        "letterSpacing": ""
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "caption": {
         "font": "",
         "size": "",
-        "letterSpacing": ""
+        "letterSpacing": "",
+        "textColor": "#OOOOOO"
       },
       "errorMsg":
       {
@@ -101,7 +111,7 @@
       },
       "secondary": {
         "btnfont": "",
-        "btnfontsize": "",
+        "btnfontsize": "16",
         "btnColor": "#ABCDEF",
         "btnTextColor": "#2b95d1",
         "btnPadding": "0"
@@ -119,15 +129,15 @@
     "fields": {
       "textFields": {
         "textColor": "#OOOOOO",
-        "textSize": "",
+        "textSize": "16",
         "hintTextFont": "",
         "hintTextColor": "#a2a2a2",
         "hintTextSize": ""
       },
       "toggleFields": {
-        "textColor": "",
+        "textColor": "#OOOOOO",
         "selectedTextColor": "",
-        "fontSize": "",
+        "fontSize": "16",
         "seletedFontSize": "",
         "backgroundColor": "",
         "selectedBackgroundColor": ""
