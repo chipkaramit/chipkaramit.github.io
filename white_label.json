@@ -21,7 +21,8 @@
         "rejectedColor":"#FF6666",
         "underevaluationCountSize":"32",
         "underevaluationColor":"#F8E71C",
-        "taskassignedColor":"#2b95d1"
+        "taskassignedColor":"#2b95d1",
+        "logoutTextColor":"#2b95d1"        
       },
       "barGraph":
       {
