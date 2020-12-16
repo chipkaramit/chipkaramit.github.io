@@ -1,5 +1,5 @@
 [
     {
-        "CompanyLogo": "Logo Not Found"
+        "URL": "https://www.google.com"
     }
 ]
