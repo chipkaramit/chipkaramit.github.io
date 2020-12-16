@@ -1,1 +1,2 @@
-"https://www.google.com"
+<?php
+echo "https://www.google.com"
